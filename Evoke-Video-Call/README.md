@@ -1,6 +1,6 @@
-# Link Up Video Call
+# Evoke Conferencing
 
-Link Up Video Call is a simple video chat application for multi-users based on React, Node Express and WebRTC.
+Evoke Conferencing is a simple video chat application for multi-users based on React, Node Express and WebRTC.
 
 ## Technologies Used
 
