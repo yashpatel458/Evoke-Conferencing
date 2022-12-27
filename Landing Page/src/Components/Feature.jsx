@@ -1,4 +1,3 @@
-//Importing files
 import React from 'react';
 import FeatureBox from'./FeatureBox';
 import featureImage from '../images/feature_1.png';

@@ -13,7 +13,7 @@ import { useAuth} from '../contexts/AuthContext';
 //Importing axios
 import axios from 'axios';
 //Importing logo
-import logo from './logo9.png'
+import logo from './logo1.png'
 
 const Chats = () => {
     const history = useHistory();

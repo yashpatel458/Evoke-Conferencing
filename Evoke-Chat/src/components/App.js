@@ -15,7 +15,7 @@ function App() {
   // console.log('debug >', auth)
   // }, [auth])
   return (
-    <div style={{ fontFamily: 'Avenir' }}>
+    <div style={{ fontFamily: 'Poppins' }}>
       <Router>
         <AuthProvider>
           <Switch>

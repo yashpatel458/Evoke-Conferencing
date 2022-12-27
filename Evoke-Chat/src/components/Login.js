@@ -1,4 +1,3 @@
-//Login.js contains the js for the login page of Link Up Chats
 
 //Importing React 
 import React from 'react';
@@ -36,7 +35,6 @@ const Login = () => {
                     <FacebookOutlined />  Sign in with Facebook
                 </div>
             </div>
-            {/* <p className="copyright">Made with ❤️‍🔥 by ItMakerz</p> */}
         </div>
     );
 }

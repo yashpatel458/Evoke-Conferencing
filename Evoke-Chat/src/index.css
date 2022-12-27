@@ -140,53 +140,54 @@ body {
 }
 
 #login-card {
- /* position: relative; */
-  /* top: calc(50vh - 174px); */
-  /* left: calc(50vw - 210px); */
-  /* justify-content: center; */
-  padding-top: 30px;
-  /* padding-bottom: 40px; */
-  /* width: 350px; */
+
+  padding: 30px;
   text-align: center;
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.851);
   border-radius: 22px;
-  box-shadow: 2px 3px var(--secondary-color); 
+  box-shadow: 20px 30px rgba(0, 0, 0, 0.854); 
   display: inline-block;
   position: fixed;
   top: 0;
   bottom: 0;
   left: 0;
   right: 0;
-  width: 340px;
-  height: 40%;
+  width: fit-content;
+  width:50%;
+  height:fit-content;
   margin: auto;
 
 }
 
 .logo {
-  height: 15%;
+  height: 30px;
 }
 .welcome-msg {
  color:var(--secondary-color);
 }
 .login-button {
   cursor: pointer;
-  color: white;
+  color: rgb(255, 255, 255);
   padding: 12px;
   border-radius: 8px;
   display: inline-block;
+  border: solid 4px;
+  
 }
 
 .facebook {
-  background-color: #3b5998;
-  width:220px;
+  background-color: #000000;
+  color: white;
+  width:auto;
+  border-color: #0051de;
 
 }
 
 .google {
   background-color: #000000;
   color: white;
-  width:220px;
+  width:auto;
+  border-color: #cc1515;
 }
 
 .email{

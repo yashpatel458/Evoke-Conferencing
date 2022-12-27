@@ -1,4 +1,3 @@
-//Importing files
 import React from 'react';
 import Heading from './Headings';
 
